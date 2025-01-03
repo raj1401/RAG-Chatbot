@@ -1,0 +1,6 @@
+__pycache__/
+*.ipynb
+docs/
+.DS_Store
+vector_store/
+models/
