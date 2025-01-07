@@ -44,3 +44,6 @@ Start the chatbot application using Streamlit:
 streamlit run chatbot/app.py --model {MODEL_NAME} --k {K}
 ```
 Replace `{MODEL_NAME}` with the name of your chosen model and `{K}` with the desired number of results to retrieve.
+
+
+(This project was inspired by @umbertogriffo's implementation of an RAG ChatBot, with the goal of keeping the implementation simple and straightforward.)
